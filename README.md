@@ -5,11 +5,17 @@ Food Tracker Learnings:
 =====================
 
 Change text of RETURN button
+
 Stack View + auto layout + items of new constraints
+
 Be specific where possible - IBAction - sender - UIButton instead of AnyObject
+
  MARK Keyword
+ 
 Add bar buttons via code
+
 Data persistence - NSCoding
+
 Structures + static constants as a way of storing KEY values
 required, convenience and designated initialisers
 presentingViewController is UINavigationController - to distinguish between model and push presentation for the same view controller
